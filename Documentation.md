@@ -5,6 +5,9 @@ The live report can be viewed using this link [View Report](https://app.powerbi.
 ### Table of Content
 -  [Project Overview](#project-Overview)
 -  [Objectives](#Objectives)
+-  [Data Structure Overview](###Data-Structure-Overview)
+-  [Executive Summary](###Exective-Summary)
+-  [Comprehensive Report](###Comprehensive_Report)
 
 
 
@@ -48,12 +51,43 @@ Lotus and Acclaimed stores, despite receiving the highest order volumes, do not 
 On average, these stores fall 51% short of the OT% target, 13% behind the IF% target, and 42% below the OTIF% target.
 Similar trends of underperformance are observed across all other stores and metrics, signaling a widespread issue in meeting delivery targets.
 
-The critically low performance, particularly in OTIF%, highlights systemic challenges in meeting service level agreements. To uncover the root causes of these delays in On-Time and In-Full deliveries, further investigation is required. Specifically:
+
+### Comprehensive Report
+This report highlights significant shortcomings in meeting set targets across critical supply chain metrics. Umkhonto's performance was evaluated across three major dimensions: OT% (On-Time Percentage), IF% (In Full Percentage), and OTIF% (On-Time and In-Full Percentage). Additionally, LIFR% (Line Fill Rate Percentage) and VOFR% (Volume Fill Rate Percentage) were partially considered, though their importance was secondary to the primary KPIs.
+Line Fill Rate (LIFR%) measures the number of order lines shipped compared to the total ordered but does not account for delivery timeliness.
+Volume Fill Rate (VOFR%) tracks the total quantity of items shipped to customers per order or over a given period. This metric is particularly valuable to both the supply chain and manufacturing teams.
+These metrics were analyzed at the product category level, city/location level, and monthly trends to provide actionable insights.
+
+Key Metric Trends
+OT% (On-Time Percentage):
+- Umkhonto achieved better OT% performance compared to IF% and OTIF% across most locations.
+- Performance for most stores ranged from 70% to 74%, with the OT% target set at 86%.
+- Worst-performing stores: Acclaimed (29%), CoolBlue (29%), and Lotus Mart (28%). Distance and logistics delays may contribute to these low figures.
+
+IF% (In Full Percentage):
+- Several stores performed slightly better in this metric:
+- Top performers: Real Fresh, Propel Mart, Atlas Stores, Expert Mart, Abim Stores, Logic Stores, Chiptec, and Expression Stores  all range between (59%–61%).
+- Worst performers: Elite Mart, Good Value, and Info Stores (38%–41%).
+
+OTIF% (On-Time and In-Full Percentage):
+Performance was grouped into three distinct ranges:
+- Decent (38%-41%): Most stores fall into this range.
+- Bad (24%-28%): Zenith, Good Value, Info Stores, and Elite Mart.
+- Worst (13%-16%): Lotus Mart, Acclaimed Stores, and CoolBlue.
+
+Delivery performance varied significantly across cities, particularly in Port Harcourt, where IF% was notably low. Each city had distinct underperforming stores: Good Value in Abuja, with an IF% of 18%; Info Stores in Lagos, with an IF% of 19%; and Elite Mart in Port Harcourt, with an IF% of 16%.
+From the line chart drilled to daily performance, key dates with notable results were identified. The best-performing days for OT% were Sunday, May 16, with 67.63%, and Friday, May 27, with 49%. The highest OTIF% recorded was on Saturday, May 28, at 37%.
+
+Dairy products accounted for 79% of total deliveries, making this a critical category for both the manufacturing and supply chain teams. Prioritizing this category is essential to improve overall performance and meet demand more effectively.
+
+This evaluation provides a comprehensive overview of the challenges faced by Umkhonto in meeting its supply chain targets, offering insights that can guide strategic decision-making to improve customer satisfaction and operational efficiency.
+
+### Recommendations
+1. CoolBlue emerged as the worst-performing store, requiring immediate attention to address and resolve the underlying issues contributing to its poor performance.
+2. The critically low performance, particularly in OTIF%, highlights systemic challenges in meeting service level agreements. To uncover the root causes of these delays in On-Time and In-Full deliveries, further investigation is required. Specifically:
 - Manufacturing Processes: Analysis of production schedules, lead times, and capacity constraints.
 - Logistics Operations: Assessment of transportation delays, inventory management, and warehouse operations.
 This follow-up investigation will provide deeper insights and help formulate actionable recommendations to improve delivery performance and ensure targets are consistently met.
-
-
 
 
 
