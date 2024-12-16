@@ -2,7 +2,7 @@
 
 The live report can be viewed using this link [View Report](https://app.powerbi.com/view?r=eyJrIjoiYzEwMzA0ZDUtYzg1MS00MzA2LTlhZDAtZWEyM2E3ZmE5ZDViIiwidCI6ImNlMGY1MjRmLTY3NWMtNDZmMy04NTYyLWQ4N2U1NDk2MWNhZSJ9@blank)
 
-## Table of Content
+### Table of Content
 [Project Overview](#project-Overview)
 [Objectives](#Objectives)
 
@@ -17,7 +17,7 @@ Recommendations will be presented to the stakeholders, the supply chain departme
 The data examined spans from March 2022 to August 2022, focusing on key performance indicators (KPIs) such as IF% (In Full Percentage), OT% (On-Time Percentage), and OTIF% (On-Time and In-Full Percentage). The analysis compares these performance metrics against their corresponding target values across the cities Umkhonto serves and its various customers
 
 
-# Objectives
+### Objectives
 - Analysis of Key Performance Indicators (KPIs) against Target Metrics
 To analyze the IF% (In Full Percentage), OT% (On-Time Percentage), and OTIF% (On-Time and In-Full Percentage) metrics with respect to their corresponding set targets, spanning the period from March 2022 to August 2022.
 
@@ -28,11 +28,11 @@ To evaluate and compare the service level performance of customers and cities ac
 To assess the LIFR% (Line Fill Rate Percentage) and VOFR% (Volume Fill Rate Percentage) on products and product categories for the warehousing and distribution teams, ensuring alignment with fulfillment objectives.
 
 
-# Data Structure Overview
+### Data Structure Overview
 ![Data Structure](https://github.com/user-attachments/assets/560d4327-a907-49b1-9d85-3ac493a7a6a3)
 
 
-# Exective Summary 
+### Exective Summary 
 *(This is a brief summary to the Director of Umkhonto)*
 
 
