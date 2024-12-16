@@ -52,6 +52,7 @@ Similar trends of underperformance are observed across all other stores and metr
 
 
 ### Comprehensive Report
+*(This is a comprehensive meant for the Supply chain Manager)*
 This report highlights significant shortcomings in meeting set targets across critical supply chain metrics. Umkhonto's performance was evaluated across three major dimensions: OT% (On-Time Percentage), IF% (In Full Percentage), and OTIF% (On-Time and In-Full Percentage). Additionally, LIFR% (Line Fill Rate Percentage) and VOFR% (Volume Fill Rate Percentage) were partially considered, though their importance was secondary to the primary KPIs.
 Line Fill Rate (LIFR%) measures the number of order lines shipped compared to the total ordered but does not account for delivery timeliness.
 Volume Fill Rate (VOFR%) tracks the total quantity of items shipped to customers per order or over a given period. This metric is particularly valuable to both the supply chain and manufacturing teams.
