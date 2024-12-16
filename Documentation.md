@@ -37,7 +37,6 @@ To assess the LIFR% (Line Fill Rate Percentage) and VOFR% (Volume Fill Rate Perc
 
 ### Exective Summary 
 *(This is a brief summary to the Director of Umkhonto)*
-Performance Analysis of Metrics (OT%, IF%, OTIF%)
 
 From the data provided, it is evident that performance across all key metrics—OT% (On-Time Percentage), IF% (In Full Percentage), and OTIF% (On-Time and In-Full Percentage)—falls significantly short of their respective targets during the period of March 2022 to August 2022.
 OTIF% shows the largest gap, with a target of 66% but only achieving 29%, reflecting severe underperformance.
