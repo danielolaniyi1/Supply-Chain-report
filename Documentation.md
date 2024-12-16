@@ -29,11 +29,31 @@ To assess the LIFR% (Line Fill Rate Percentage) and VOFR% (Volume Fill Rate Perc
 
 
 ### Data Structure Overview
-![Data Structure](https://github.com/user-attachments/assets/560d4327-a907-49b1-9d85-3ac493a7a6a3)
+![Data Structure](https://github.com/user-attachments/assets/560d4327-a907-49b1-9d85-3ac493a7a6a3) 
 
 
 ### Exective Summary 
 *(This is a brief summary to the Director of Umkhonto)*
+Performance Analysis of Metrics (OT%, IF%, OTIF%)
+
+From the data provided, it is evident that performance across all key metrics—OT% (On-Time Percentage), IF% (In Full Percentage), and OTIF% (On-Time and In-Full Percentage)—falls significantly short of their respective targets during the period of March 2022 to August 2022.
+OTIF% shows the largest gap, with a target of 66% but only achieving 29%, reflecting severe underperformance.
+Best Performing Months:
+March for OT%: Achieved 60% against a target of 86%.
+May for IF%: Achieved 54% against a target of 77%.
+August for OTIF%: Achieved 29% against a target of 66%.
+While these months represent the best performance in their respective metrics, the results remain critically below target levels.
+
+Port Harcourt stores exhibit the worst performance across all metrics, indicating potential operational inefficiencies within this location.
+Lotus and Acclaimed stores, despite receiving the highest order volumes, do not have the highest fulfillment rates.
+On average, these stores fall 51% short of the OT% target, 13% behind the IF% target, and 42% below the OTIF% target.
+Similar trends of underperformance are observed across all other stores and metrics, signaling a widespread issue in meeting delivery targets.
+
+The critically low performance, particularly in OTIF%, highlights systemic challenges in meeting service level agreements (SLAs). To uncover the root causes of these delays in On-Time and In-Full deliveries, further investigation is required. Specifically:
+Manufacturing Processes: Analysis of production schedules, lead times, and capacity constraints.
+Logistics Operations: Assessment of transportation delays, inventory management, and warehouse operations.
+This follow-up investigation will provide deeper insights and help formulate actionable recommendations to improve delivery performance and ensure targets are consistently met.
+
 
 
 
